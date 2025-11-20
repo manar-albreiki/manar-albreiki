@@ -27,6 +27,6 @@ I successfully developed a Smart Parking System that integrates wireless EV char
 The system calculates charging fees, supports accessibility features, and connects with monitoring platforms to improve efficiency and user experience.
 ## :mailbox: How to Reach Me
 - Email: albreikimanar@gmail.com
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: (https://www.linkedin.com/in/manar-alberiki-ab0165377)
 ## :seedling: Fun Facts
 -I’m always excited to learn something new—especially anything related to tech, software development, or telecommunication.
